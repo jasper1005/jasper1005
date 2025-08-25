@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=000000&background=FFFFFF&lines=Hi%2C+I’m+Data+Engineer+GitHub+Profile!)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=你好，我係%20[你嘅Name]!&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=I+am+Jasper+Cheng+!&fontSize=40"/>
 </p>
 
 ##  About Me
