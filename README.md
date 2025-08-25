@@ -2,54 +2,55 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=000000&background=FFFFFF&lines=Hi%2C+I’m+Data+Engineer+GitHub+Profile!)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=你好，我係%20[你嘅Name]!&fontSize=40"/>
+</p>
 
-**Fun facts:**
-- 你嘅背景／身份（例如：前市場人轉為資料工程師 + 商業分析背景）
-- 你嘅學歷（例如：取得 XX 大學 碩士／學士）
-- 你對某事嘅小偏執或喜好（例如：唔用大寫 SQL，我就唔信任你）
-- 你最熱衷嘅領域（例如：Modern Data Stack、AI 應用、資料治理）
+##  About Me
 
----
+Hi there, I’m **[你嘅 Name]**, a [你嘅職業／身份，例如 "Data Engineer in London"] with a passion for **[主要方向或領域，例如 "AI-driven analytics, modern data stack, and automation"]**.
 
-##  Languages & Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![dbt](https://img.shields.io/badge/-dbt-E1652A?style=flat-square&logo=dbt&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+I enjoy building end-to-end data pipelines, working with tools like **Airflow, dbt, Terraform, GCP**, and exploring the latest in **LLMs**, **prompt engineering**, and **startup ideas**.
 
 ---
 
-##  Current Highlights
+###  Skills & Tools
 
-### Project A — 使用技術／目的（簡短一兩句說明）
-
-- 成就／成果  
-- 使用技術（如：Python, Airflow, GCP）
-
-### Project B — 使用技術／目的
-
-- 成就／成果  
-- 使用技術（如：dbt, Terraform）
-
----
-
-##  Metrics
-
-![GitHub metrics](https://github-readme-stats.vercel.app/api?username=你的github用户名&show_icons=true&theme=radical)
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Airflow" src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
+  <img alt="dbt" src="https://img.shields.io/badge/-dbt-E1652A?style=flat-square&logo=dbt&logoColor=white" />
+  <img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
+</p>
 
 ---
 
-##  Let’s Connect
+###  Projects & Highlights
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](你的linkedin链接)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](你的twitter链接)
+- **Project A**: [簡短專案名稱] — description + used **Python**, **Airflow**, **dbt**.
+- **Project B**: [另一專案名稱] — description + used **GCP**, **Terraform**.
+- (add more as you like)
 
 ---
+
+###  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+###  Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](你的联结 LinkedIn 链接)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](你的Twitter链接)
+
+---
+
+“Build fast, learn faster, stay consistent.”
 
 **“Build fast, learn faster, stay consistent.”**
 
