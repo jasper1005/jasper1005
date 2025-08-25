@@ -1,6 +1,6 @@
 # Hello World!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=000000&background=FFFFFF&lines=Hi%2C+I’m+你嘅名,+歡迎來到我嘅+GitHub+Profile!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=000000&background=FFFFFF&lines=Hi%2C+I’m+Data+Engineer+GitHub+Profile!)
 
 ---
 
