@@ -83,9 +83,24 @@ I enjoy building scalable end-to-end data workflows, working with tools like Air
 
 ---
 
-**Upcoming Projects**  
-- **Live Dual Caption for Microsoft Teams** – building a lightweight external captioning tool for bilingual meetings.  
-- **LLM + Data Pipeline Utility (working title)** – a low-cost, practical project combining a **large language model** with **ETL pipelines** to process and analyze unstructured data efficiently.
+**Upcoming Projects**
+
+- **Live Dual Caption for Microsoft Teams**  
+  Lightweight external caption overlay for bilingual meetings (e.g., Cantonese ⇆ English).  
+  - ASR: Whisper (local) / Azure / Deepgram  
+  - Translate: OpenAI / NLLB  
+  - Overlay: Electron or browser overlay; toggle with hotkeys  
+  - Pipeline: mic → ASR → translation → caption queue → render (target latency < 500ms)
+
+- **LLM Data Contract & dbt Generator**  
+  Auto-generate **canonical schemas**, **dbt models/tests**, and **documentation** from messy CSV/JSON/API sources; monitor drift and raise PRs.  
+  - Inputs: CSV, JSON, or API (OpenAPI/Swagger); sample to **GCS** → **BigQuery**  
+  - Mapping: schema inference + **LLM mapping** to a standardized entity model  
+  - Generate: dbt `stg/*` + `dim/fct/*`, tests (**unique**, **not_null**, **accepted_values**), docs  
+  - Quality: **Great Expectations** (or dbt tests) + **anomaly/drift** checks, Slack/Teams alert  
+  - Orchestration & Infra: **Airflow** DAGs, **Terraform** for BQ/GCS setup; optional **Kafka** tap for streaming sources  
+  - Deliverables: auto-opened GitHub PR（models/tests/macros + README）, runbook, and cost report
+
 
 ---
 
