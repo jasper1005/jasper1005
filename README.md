@@ -1,20 +1,20 @@
 # Hello World!
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=160&section=header&text=I%20am%20Jasper%20Cheng&fontSize=70&fontColor=00FF41&fontAlignY=40&descAlignY=80&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:4d0000&height=160&section=header&text=I%20am%20Jasper%20Cheng&fontSize=70&fontColor=FF3B3B&fontAlignY=40&descAlignY=80&descAlign=50" />
 </p>
-
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Data+Engineer;AI+Enthusiast;Content+Creator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3B3B&center=true&vCenter=true&width=500&lines=Data+Engineer;AI+Enthusiast;Content+Creator" />
 </p>
-
 
 ##  About Me
 
 Hi there, I’m Jasper Cheng, a Data Engineer based in London with a passion for AI-driven analytics, modern data pipelines, and cloud automation.
 
 I enjoy building scalable end-to-end data workflows, working with tools like Airflow, dbt, Terraform, BigQuery, and GCP, while exploring the latest in LLMs, neural networks, and startup ideas.
+
+Check out my [portfolio](https://github.com/jasper1005) and [CV (PDF)](https://github.com/jasper1005/jaspercheng-CV/blob/main/Jasper_Cheng-Resume-v3.1.pdf) to learn more about me and my projects.
 
 ---
 
