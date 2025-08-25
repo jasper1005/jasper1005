@@ -1,4 +1,4 @@
-# Hello World!
+# Welcome to my GitHub profile! Hello World!
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:4d0000&height=160&section=header&text=I%20am%20Jasper%20Cheng&fontSize=70&fontColor=FF3B3B&fontAlignY=40&descAlignY=80&descAlign=50" />
