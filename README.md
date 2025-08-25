@@ -63,19 +63,19 @@ I enjoy building scalable end-to-end data workflows, working with tools like Air
 
 ### Projects & Highlights  
 
-- **[PyDataHandler](https://github.com/jasper1005/PyDataHandler)**
+**[PyDataHandler](https://github.com/jasper1005/PyDataHandler)**
 - **A Python utility package for flexible data handling**
   - Consolidates multiple files into a single dataset based on user-defined rules.  
   - Splits datasets into targeted subsets for analysis.  
   - Built with **Python**, **Pandas**, **NumPy**.
 
-- **[Analysing-the-Sentiment-of-Twitter-Data-on-the-Bitcoin-by-LSTM](https://github.com/jasper1005/Analysing-the-Sentiment-of-Twitter-Data-on-the-Bitcoin-by-LSTM)**
+**[Analysing-the-Sentiment-of-Twitter-Data-on-the-Bitcoin-by-LSTM](https://github.com/jasper1005/Analysing-the-Sentiment-of-Twitter-Data-on-the-Bitcoin-by-LSTM)**
 - **MSc dissertation project on predicting Bitcoin price trends using sentiment analysis**
   - Collected and processed tweets, applied VADER sentiment scoring.  
   - Implemented **LSTM** and **CNN** models for time-series forecasting.  
   - Tools: **Python**, **TensorFlow/Keras**, **NLP**.
 
-- **[LaLiga-Match-Result-Predictions](https://github.com/jasper1005/LaLiga-Match-Result-Predictions)**
+**[LaLiga-Match-Result-Predictions](https://github.com/jasper1005/LaLiga-Match-Result-Predictions)**
 - **A machine-learning project predicting Spanish La Liga match outcomes**
   - Used historical data and features like team performance, match stats.  
   - Explored classification models and evaluation metrics.  
