@@ -1,3 +1,5 @@
+# Hello World!
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=160&section=header&text=I%20am%20Jasper%20Cheng&fontSize=70&fontColor=00FF41&fontAlignY=40&descAlignY=80&descAlign=50" />
 </p>
@@ -6,11 +8,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Data+Engineer;AI+Enthusiast;Content+Creator" />
 </p>
-
-
-# Hello World!
----
-
 
 
 ##  About Me
@@ -56,8 +53,6 @@ I enjoy building scalable end-to-end data workflows, working with tools like Air
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](你的Twitter链接)
 
 ---
-
-“Build fast, learn faster, stay consistent.”
 
 **“Build fast, learn faster, stay consistent.”**
 
