@@ -61,11 +61,31 @@ I enjoy building scalable end-to-end data workflows, working with tools like Air
 
 ---
 
-###  Projects & Highlights
+### Projects & Highlights  
 
-- **Project A**: [簡短專案名稱] — description + used **Python**, **Airflow**, **dbt**.
-- **Project B**: [另一專案名稱] — description + used **GCP**, **Terraform**.
-- (add more as you like)
+- **[PyDataHandler](https://github.com/jasper1005/PyDataHandler)**  
+  A Python utility package for flexible data handling.  
+  - Consolidates multiple files into a single dataset based on user-defined rules.  
+  - Splits datasets into targeted subsets for analysis.  
+  - Built with **Python**, **Pandas**, **NumPy**.
+
+- **[Analysing-the-Sentiment-of-Twitter-Data-on-the-Bitcoin-by-LSTM](https://github.com/jasper1005/Analysing-the-Sentiment-of-Twitter-Data-on-the-Bitcoin-by-LSTM)**  
+  MSc dissertation project on predicting Bitcoin price trends using sentiment analysis.  
+  - Collected and processed tweets, applied VADER sentiment scoring.  
+  - Implemented **LSTM** and **CNN** models for time-series forecasting.  
+  - Tools: **Python**, **TensorFlow/Keras**, **NLP**.
+
+- **[LaLiga-Match-Result-Predictions](https://github.com/jasper1005/LaLiga-Match-Result-Predictions)**  
+  A machine-learning project predicting Spanish La Liga match outcomes.  
+  - Used historical data and features like team performance, match stats.  
+  - Explored classification models and evaluation metrics.  
+  - Tools: **Python**, **Scikit-Learn**, **Pandas**.
+
+---
+
+**Upcoming Projects**  
+- **Live Dual Caption for Microsoft Teams** – building a lightweight external captioning tool for bilingual meetings.  
+- **LLM + Data Pipeline Utility (working title)** – a low-cost, practical project combining a **large language model** with **ETL pipelines** to process and analyze unstructured data efficiently.
 
 ---
 
