@@ -49,8 +49,13 @@ I enjoy building scalable end-to-end data workflows, working with tools like Air
 
 ###  Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/jasper105/<a>
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](你的Twitter链接)
+### Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasper105)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jasper1005)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://jasper-cheng.vercel.app)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jasper.cheng.1005@gmail.com)  
+
 
 ---
 
