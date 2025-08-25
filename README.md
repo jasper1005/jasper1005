@@ -15,9 +15,9 @@
 
 ##  About Me
 
-Hi there, I’m **[你嘅 Name]**, a [你嘅職業／身份，例如 "Data Engineer in London"] with a passion for **[主要方向或領域，例如 "AI-driven analytics, modern data stack, and automation"]**.
+Hi there, I’m Jasper Cheng, a Data Engineer based in London with a passion for AI-driven analytics, modern data pipelines, and cloud automation.
 
-I enjoy building end-to-end data pipelines, working with tools like **Airflow, dbt, Terraform, GCP**, and exploring the latest in **LLMs**, **prompt engineering**, and **startup ideas**.
+I enjoy building scalable end-to-end data workflows, working with tools like Airflow, dbt, Terraform, BigQuery, and GCP, while exploring the latest in LLMs, neural networks, and startup ideas.
 
 ---
 
