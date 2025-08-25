@@ -49,7 +49,7 @@ I enjoy building scalable end-to-end data workflows, working with tools like Air
 
 ###  Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](你的联结 LinkedIn 链接)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/jasper105/
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](你的Twitter链接)
 
 ---
