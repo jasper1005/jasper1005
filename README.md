@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=I+am+Jasper+Cheng+!&fontSize=40"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+AI+Builder;Python+%2B+GCP+%2B+Terraform;Let's+Build+Something+Cool!" />
 </p>
+
 # Hello World!
 ---
 
